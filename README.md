@@ -1,3 +1,6 @@
+![Issues](https://img.shields.io/github/issues/shlok-sethia/Assault-Prediction-from-Stock-Prices)
+[![License](https://img.shields.io/github/license/shlok-sethia/Assault-Prediction-from-Stock-Prices)](https://github.com/shlok-sethia/Assault-Prediction-from-Stock-Prices/blob/master/LICENSE)
+
 # Crime-Prediction-using-Stock-Performance
 
 The film ‘Minority Report’ was one of the first mainstream ventures to introduce the futuristic idea of ‘precrime’: the ability to predict crime before it occurs. Our project aims to convert this futuristic idea into reality in order to create safe public spaces for the world. While we have a general idea of ‘safe’ and ‘unsafe’ neighborhoods in every city, currently there is a lack of clear insights on the number of anticipated assaults in an area in a given period of time, how assaults are affected by seasonality, weather conditions, unemployment rates and the stock prices of local companies. In particular, in this project, we intend to explore the relationship between market sentiment and the number of assaults, and the types of psychological behaviors that cause this difference.
